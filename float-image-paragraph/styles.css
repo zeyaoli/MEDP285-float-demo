@@ -1,0 +1,17 @@
+.container {
+    width: 500px;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #b4a6d5;
+}
+
+.float-container {
+    padding: 1rem;
+    background-color: aliceblue;
+}
+
+.float-container img {
+    width: 200px;
+    float: left;
+    margin: 1rem;
+}
